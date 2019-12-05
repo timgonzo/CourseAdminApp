@@ -1,0 +1,22 @@
+{
+  "name": "course-admin-app",
+  "version": "1.0.0",
+  "description": "Course administration application built to exemplify basic React & Redux competency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timgonzo/CourseAdminApp.git"
+  },
+  "author": "Tim Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timgonzo/CourseAdminApp/issues"
+  },
+  "homepage": "https://github.com/timgonzo/CourseAdminApp#readme",
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}
